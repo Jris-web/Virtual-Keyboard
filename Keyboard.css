@@ -1,3 +1,13 @@
+.text-al{
+    text-align: center;
+    color: #ffffff;
+}
+.background-img{
+    background-image: url('https://res.cloudinary.com/dbraeu015/image/upload/v1626593624/freeimg_92769330046freejpg850_okgwtg.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
 .keyboard {
     position: fixed;
     left: 0;
